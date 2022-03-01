@@ -1,7 +1,8 @@
 # 百度地图定位Cordova插件，支持Android，IOS，ionic 5x 6x 均可使用
 
 ## 前言:
-* 本插件主要参考[cordova-plugin-baidumaplocation](https://github.com/aruis/cordova-plugin-baidumaplocation#readme),通过修改，让它适配capacitor平台。对应的版本是`v4.0.3`
+  
+  本插件主要参考[cordova-plugin-baidumaplocation](https://github.com/aruis/cordova-plugin-baidumaplocation#readme),通过修改，让它适配capacitor平台。对应的版本是`v4.0.3`
 
 
 
@@ -13,8 +14,7 @@
 >但经过测试后，发现根本无法定位，几经调查发现跟貌似国内网络有关系，原因相信大家都懂的，此过省略好几个字。。。。
 >
 
-#### 零，版本
-基于百度地图Android版定位SDK（v7.2）以及百度地图IOS SDK （v3.3.4）
+
 
 #### 一，申请Android及IOS版密钥
 [申请密钥Android定位SDK](http://developer.baidu.com/map/index.php?title=android-locsdk/guide/key)
@@ -33,7 +33,7 @@ npm i  capacitor-plugin-baidumaplocation
 
 #### 三，capacitor的原生配置
 
-##### Ios
+## Ios
 在capacitor.config.ts配置*-info.plist文件
 ```ts
   await project.ios?.updateInfoPlist(null, null, {
