@@ -1,0 +1,67 @@
+{
+    "_from": "file:plugins/capacitor-plugin-baidumaplocation.tar.gz",
+    "_id": "capacitor-plugin-baidumaplocation@1.0.0",
+    "_inBundle": false,
+    "_integrity": "sha512-GtOJ20PDYnRkLgecDMnllBVwhuy8JNpEnfPHIuvps2CEeLi50MSIY5aQuSyyAAcPToW00FMtSYth++EG73d0mw==",
+    "_location": "/capacitor-plugin-baidumaplocation",
+    "_phantomChildren": {},
+    "_requested": {
+        "type": "file",
+        "where": "/Users/fits-vue/Documents/Trunk",
+        "raw": "file:plugins/capacitor-plugin-baidumaplocation.tar.gz",
+        "rawSpec": "file:plugins/capacitor-plugin-baidumaplocation.tar.gz",
+        "saveSpec": "file:plugins/capacitor-plugin-baidumaplocation.tar.gz",
+        "fetchSpec": "/Users/fits-vue/Documents/Trunk/plugins/capacitor-plugin-baidumaplocation.tar.gz"
+    },
+    "_requiredBy": [
+        "#USER",
+        "/"
+    ],
+    "_resolved": "/Users/fits-vue/Documents/Trunk/plugins/capacitor-plugin-baidumaplocation.tar.gz",
+    "_shasum": "20809416bb8e156fd74dbd27674570a6dd16f85c",
+    "_spec": "file:plugins/capacitor-plugin-baidumaplocation.tar.gz",
+    "_where": "/Users/fits-vue/Documents/Trunk",
+    "author": {
+        "name": "aruis"
+    },
+    "bugs": {
+        "url": "https://github.com/aruis/capacitor-plugin-baidumaplocation/issues"
+    },
+    "bundleDependencies": false,
+    "cordova": {
+        "id": "capacitor-plugin-baidumaplocation",
+        "platforms": [
+            "android"
+        ]
+    },
+    "deprecated": false,
+    "description": "Cordova Geolocation Plugin,use Baidu Map SDK",
+    "engines": {
+        "cordovaDependencies": {
+            "2.0.0": {
+                "cordova-android": ">=5.0.0"
+            },
+            "3.0.0": {
+                "cordova-android": ">=5.0.0"
+            }
+        }
+    },
+    "homepage": "https://github.com/aruis/capacitor-plugin-baidumaplocation#readme",
+    "keywords": [
+        "cordova",
+        "baidu",
+        "location",
+        "geolocation",
+        "device",
+        "ecosystem:cordova",
+        "cordova-android",
+        "cordova-ios"
+    ],
+    "license": "Apache-2.0",
+    "name": "capacitor-plugin-baidumaplocation",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aruis/capacitor-plugin-baidumaplocation.git"
+    },
+    "version": "1.0.0"
+}
