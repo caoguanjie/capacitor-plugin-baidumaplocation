@@ -22,10 +22,10 @@
     "_spec": "file:plugins/capacitor-plugin-baidumaplocation.tar.gz",
     "_where": "/Users/fits-vue/Documents/Trunk",
     "author": {
-        "name": "aruis"
+        "name": "caoguanjie"
     },
     "bugs": {
-        "url": "https://github.com/aruis/capacitor-plugin-baidumaplocation/issues"
+        "url": "https://github.com/caoguanjie/capacitor-plugin-baidumaplocation/issues"
     },
     "bundleDependencies": false,
     "cordova": {
@@ -46,7 +46,7 @@
             }
         }
     },
-    "homepage": "https://github.com/aruis/capacitor-plugin-baidumaplocation#readme",
+    "homepage": "https://github.com/caoguanjie/capacitor-plugin-baidumaplocation#readme",
     "keywords": [
         "cordova",
         "baidu",
@@ -61,7 +61,7 @@
     "name": "capacitor-plugin-baidumaplocation",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/aruis/capacitor-plugin-baidumaplocation.git"
+        "url": "git+https://github.com/caoguanjie/capacitor-plugin-baidumaplocation.git"
     },
-    "version": "1.0.0"
+    "version": "1.0.1"
 }

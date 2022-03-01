@@ -85,8 +85,8 @@ baidumap_location.getCurrentPosition(function (result) {
 具体可参考如下截图
 
 
-![Android Screenshot](https://github.com/aruis/capacitor-plugin-baidumaplocation/raw/master/android.jpg)
-![IOS Screenshot](https://github.com/aruis/capacitor-plugin-baidumaplocation/raw/master/ios.PNG)
+![Android Screenshot](https://github.com/caoguanjie/capacitor-plugin-baidumaplocation/raw/master/android.jpg)
+![IOS Screenshot](https://github.com/caoguanjie/capacitor-plugin-baidumaplocation/raw/master/ios.PNG)
 
 
 具体字段内容请参照：
